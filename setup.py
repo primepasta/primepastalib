@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'primepastalib',         # How you named your package folder (MyLib)
   packages = ['primepastalib'],   # Chose the same as "name"
-  version = '0.2',      # Start with a small number and increase it with every change you make
+  version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Helps in deploying django files to heroku.',   # Give a short description about your library
   author = 'primepasta',                   # Type in your name
